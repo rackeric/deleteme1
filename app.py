@@ -3,3 +3,6 @@ def myput(x):
 
 def myout(y):
   return y
+
+def myin(z):
+  return z
