@@ -6,3 +6,6 @@ def myout(y):
 
 def myin(w):
   return w
+
+dev addnums(a, b):
+  return a + b
