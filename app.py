@@ -7,5 +7,5 @@ def myout(y):
 def myin(w):
   return w
 
-dev addnums(a, b):
+def addnums(a, b):
   return a + b
