@@ -1,3 +1,6 @@
+def myput(y):
+  return y
+
 def myout(y):
   return y
 
