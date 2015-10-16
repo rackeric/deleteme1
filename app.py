@@ -1,5 +1,5 @@
-def myput(a):
-  return a
+def myput(b):
+  return b
 
 def myout(y):
   return y
