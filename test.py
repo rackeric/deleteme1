@@ -14,6 +14,9 @@ class TestMethods(unittest.TestCase):
 
   def test_addnums(self):
       self.assertEqual(app.addnums(5, 5), 10)
+
+  def test_newfunc(self):
+      self.assertEqual(app.newfunc(5), 5)
       
 
 if __name__ == '__main__':
