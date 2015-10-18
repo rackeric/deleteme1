@@ -9,3 +9,6 @@ def myin(w):
 
 def addnums(a, b):
   return a + b
+
+def newfunc(a):
+  return a
